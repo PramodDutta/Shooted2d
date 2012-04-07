@@ -1,0 +1,9 @@
+Direct3D:
+    Version:  Direct3D 9.0c [igdumd32.dll 8.15.10.1749]
+    Renderer: Intel(R) G33/G31 Express Chipset Family (Microsoft Corporation - WDDM 1.0)
+    Vendor:   Intel
+    VRAM:     64 MB (via DXGI)
+    Caps:     Shader=20 DepthRT=0 NativeDepth=0 NativeShadow=0 DF16=0 DF24=0 INTZ=0 RAWZ=0 NULL=0 RESZ=0 SlowINTZ=0
+desktop: 1440x900 75Hz; virtual: 1440x900 at 0,0
+<I> Initializing (RawInput).
+<RI> Input initialized.
